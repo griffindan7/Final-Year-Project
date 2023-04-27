@@ -7,3 +7,6 @@
 -cd into that folder in terminal, when running my project I used terminal in VSCode.   
 -I think then if you run 'npx expo run:android' it should run the app.   
 -You will need an Android device connected via USB or an emulator installed.   
+
+-There might be issues with 'node_modules' as I had to delete these in order to upload to GitHub, but running 'npm install' should redownload them all.   
+-If theres any issues send me an email.
