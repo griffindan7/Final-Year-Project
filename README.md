@@ -10,3 +10,5 @@
 
 -There might be issues with 'node_modules' as I had to delete these in order to upload to GitHub, but running 'npm install' should redownload them all.   
 -If theres any issues send me an email.
+
+-As for description of the files, the files I used and edited were the files in the screen folder and the app.js folder.    
